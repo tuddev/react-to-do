@@ -8,5 +8,5 @@ React-app: TODO-list
 - React
 - Webpack
 - FireBase
-- Flux-архитектура
+- Flux-architecture
 - Material UI
